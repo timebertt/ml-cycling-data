@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  jupyter:
+    image: jupyter/tensorflow-notebook:tensorflow-2.4.3
+    ports:
+    - "8888:8888"
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+    volumes:
+    - "./jupyter:/home/jovyan/work"
