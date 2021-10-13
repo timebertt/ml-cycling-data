@@ -1,1 +1,4 @@
 /jupyter/.ipynb_checkpoints
+/build
+/output-tex
+.idea

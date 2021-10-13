@@ -1,6 +1,14 @@
-# ml-cycling-data
+# Programmentwurf Maschinelles Lernen
 
-Term paper for the lecture "Machine Learning" at DHBW CAS.
+[Zur Seminararbeit](./paper-final.pdf)
+
+[Zum Jupyter Notebook](./jupyter/cycling_data_final.ipynb)
+
+## Info
+
+Diese Seminararbeit wurde von Nikola Braukmüller und Tim Ebert als Prüfungsleistung im Modul "Maschinelles Lernen und Computational Intelligence" im Rahmen des Masterstudiums in Informatik am [DHBW Center for Advanced Studies](https://www.cas.dhbw.de/) (CAS) verfasst.
+
+Copyright (c) 2021 Nikola Braukmüller und Tim Ebert
 
 ## Jupyter Lab
 
